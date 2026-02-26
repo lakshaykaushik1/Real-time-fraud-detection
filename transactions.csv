@@ -1,0 +1,10 @@
+user_id,amount,location,device,timestamp
+U1003,6914,Mumbai,Web,2026-02-26 12:22:54
+U1003,31814,Bangalore,Android,2026-02-26 12:22:56
+U1002,30967,Chennai,Web,2026-02-26 12:22:58
+U1002,30886,Chennai,Web,2026-02-26 12:23:00
+U1001,30406,Delhi,iPhone,2026-02-26 12:23:02
+U1003,47134,Mumbai,iPhone,2026-02-26 12:23:04
+U1003,30689,Chennai,Android,2026-02-26 12:23:06
+U1002,26794,Mumbai,iPhone,2026-02-26 12:23:08
+U1002,32462,Chennai,iPhone,2026-02-26 12:23:10
